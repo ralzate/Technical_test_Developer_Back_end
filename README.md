@@ -44,8 +44,8 @@ Now, you can pipe it to bash to install the latest stable Rails version which wi
 9. `bundle install`  
 
 ## 4. Postman
+Postman query example capture [here](https://github.com/ralzate/Postman_image/blob/master/Screenshot%20from%202022-10-03%2003-36-27.png) 
 
-![example query with postman to endpoint](https://raw.githubusercontent.com/ralzate/Postman_image/master/Screenshot%20from%202022-10-03%2003-36-27.png?token=GHSAT0AAAAAABZNN5WJYRTGUAMX5DTMLPP4YZ2UFRQ)
 
 ## 5. Test
 Go to [this](https://technical-test-developer-back.herokuapp.com/api/v1/number_of_elements_that_the_array_will_have?number_of_elements=12) url and change the number at the end of the url to set the number of elements in the array and make tests
